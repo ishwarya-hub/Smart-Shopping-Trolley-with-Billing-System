@@ -415,10 +415,10 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 For questions, suggestions, or collaboration:
 
-- **Email**: Arokiyanithishj@gmail.com
-- **GitHub**: [@Arokiya Nithish J](https://github.com/ArokiyaNithish)
-- **LinkedIn**: [Arokiya Nithish J](www.linkedin.com/in/arokiya-nithishj)
-- **Portfoilo**:[Arokiya Nithish J](https://arokiyanithish.github.io/portfolio/)
+- **Email**: Ishwarya.m13@gmail.com
+- **GitHub**: [Ishwarya M](https://github.com/ishwarya-hub)
+- **LinkedIn**: [Ishwarya M](https://www.linkedin.com/in/ishwaryam13/)
+
 
 ---
 
